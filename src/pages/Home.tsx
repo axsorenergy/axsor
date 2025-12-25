@@ -97,7 +97,7 @@ const Home = () => {
               lineHeight: "160%",
             }}
           >
-            JOBS
+            CAREERS
           </Typography>
           <Typography
             sx={{
